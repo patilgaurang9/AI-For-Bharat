@@ -101,4 +101,4 @@ They need a connected ecosystem.
 - Shivam Panchal
 - Prathamesh Baviskar
 
-TechXpression X CSI Hackathon  
+AI for Bharat
